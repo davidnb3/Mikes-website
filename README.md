@@ -1,0 +1,3 @@
+# Mikes-website
+
+Website used for SEO and accessibility optimization as part of an Openclassrooms project...
