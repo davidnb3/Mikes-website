@@ -365,7 +365,6 @@ a:hover {text-decoration:none;cursor:pointer}
 .bg-t-edge {background:top no-repeat}
 .bloc-bg-texture::before {content:"";background-size:2px 2px;position:absolute;top:0;bottom:0;left:0;right:0}
 .texture-paper::before {background:url(img/texture-paper.png);background-size:280px 280px}
-.b-parallax {background-attachment:fixed}
 .d-bloc {color:rgba(255,255,255,.7)}
 .d-bloc button:hover {color:rgba(255,255,255,.9)}
 .d-bloc .a-btn,.d-bloc .navbar a,.d-bloc .navbar-brand,.d-bloc a .icon-lg,.d-bloc a .icon-md,.d-bloc a .icon-sm,.d-bloc h1 a,.d-bloc h2 a,.d-bloc h3 a,.d-bloc h4 a,.d-bloc h5 a,.d-bloc h6 a,.d-bloc p a {color:rgba(255,255,255,.6)}
